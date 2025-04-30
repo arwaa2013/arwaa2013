@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arwaa2013
+- 👋 Assalamualaikum, I’m @arwaa2013
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on a website
